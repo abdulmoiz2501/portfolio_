@@ -22,6 +22,7 @@ class IntroImage extends StatelessWidget {
       right: 0,
       left: 8,
       bottom: 150,
+
       child: Image.asset(
         fit: BoxFit.cover,
         AppAssets.devImg,
